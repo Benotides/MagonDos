@@ -1,0 +1,7 @@
+@import './base.css';
+
+#app {
+  max-width: 1700px;
+  margin: 0 auto;
+  background-color: rgb(156, 182, 216);
+}
